@@ -5,3 +5,4 @@ atlastestar
 .flatpak-builder
 builddir/
 repo/
+deps/
