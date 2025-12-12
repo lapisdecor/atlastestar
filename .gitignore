@@ -1,3 +1,7 @@
 nimcache/
 nimblecache/
 htmldocs/
+atlastestar
+.flatpak-builder
+builddir/
+repo/
